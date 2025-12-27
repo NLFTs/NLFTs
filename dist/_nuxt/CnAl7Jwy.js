@@ -1,0 +1,1 @@
+import{_ as t}from"./DlAUqK2U.js";import{c as s,a as e,o as n}from"./kpjyXzTV.js";const a={},c={class:"bg-white p-6 rounded shadow"};function r(i,o){return n(),s("div",c,[...o[0]||(o[0]=[e("h2",{class:"text-2xl font-bold"},"Hubungi Kami",-1),e("p",null,"Email: violet@coding.com",-1)])])}const m=t(a,[["render",r]]);export{m as default};
